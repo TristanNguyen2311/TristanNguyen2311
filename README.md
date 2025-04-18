@@ -1,7 +1,7 @@
 # Data Analyst
 
 # Contact
- - tristanng2311@gmail.com - 0938209216
+[in/tristan-nguyễn](https://www.linkedin.com/in/tristan-nguy%E1%BB%85n/?trk=public-profile-join-page) - tristanng2311@gmail.com - 0938209216
 
 # Technical Skills
 - Excel: Pivot table, vlookup/xlookup, Analytical & Computational Formulas
